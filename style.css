@@ -73,7 +73,8 @@
 }
 
 .edit:hover, 
-.delete:hover {
+.delete:hover,
+.add:hover {
   color: #3a3a3a;
 }
 
