@@ -44,20 +44,20 @@
 
 #incomplete-tasks, 
 #completed-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 #incomplete-tasks__item, 
 .heading {
-  list-style:none;
+  list-style: none;
 }
 
 .incomplete-tasks__input, 
 .edit, 
 .delete,
 .add {
-  outline:none;
+  outline: none;
 }
 
 .edit, 
@@ -164,14 +164,14 @@ ul#completed-tasks label {
 
 /* Edit Task */
 ul li input[type=text] {
-  display:none
+  display: none
 }
 
 ul .edit-mode input[type=text] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 ul li.edit-mode label {
-  display:none;
+  display: none;
 }
